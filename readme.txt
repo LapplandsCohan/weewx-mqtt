@@ -15,6 +15,11 @@ For python2:
 
   sudo pip install paho-mqtt
 
+If running python3 on Debian based system,
+and weewx is not running in a separate python environment:
+
+  sudo apt-get install python3-paho-mqtt
+
 ===============================================================================
 Installation instructions:
 
